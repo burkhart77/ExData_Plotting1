@@ -1,3 +1,5 @@
+Had to recreate my repository due to an unknown git problem. My stuff just was not showing up. Deleted and then re-forked ExData_Plotting1
+
 ## Introduction
 
 This assignment uses data from
